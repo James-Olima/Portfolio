@@ -12,9 +12,15 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ## Education
 
-**M.Sc. Medical Physics**
+### Master of Science (M.Sc.) in Medical Physics — **Distinction**
+**University of Lagos, Akoka, Lagos, Nigeria**  
+**2024 – September 2025**
 
 **B.Sc. Physics**
+
+### Bachelor of Science (B.Sc.) in Physics — **Second Class Upper Division (2:1)**
+**Federal University Kashere, Gombe State, Nigeria**  
+**2016 – 2021**
 
 ---
 
@@ -22,7 +28,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 **Physics Intern**
 - National Hospital Abuja
-
+*2021 - 2022*
 ---
 
 ## Skills
@@ -30,7 +36,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 ### Programming
 - Basic Python
   
-## 📊 Areas of Interest
+## Areas of Interest
 
 - Data Science
 - Machine Learning
@@ -62,7 +68,7 @@ Data cleaning, visualization, and statistical analysis using Python.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 Feel free to explore my repositories and connect with me.
 
