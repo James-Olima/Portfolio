@@ -14,7 +14,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ### Master of Science (M.Sc.) in Medical Physics — **Distinction**
 **University of Lagos, Akoka, Lagos, Nigeria**  
-**2024 – September 2025**
+**2024 – 2025**
 
 **B.Sc. Physics**
 
@@ -29,6 +29,12 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 **Physics Intern**
 - National Hospital Abuja
 *2021 - 2022*
+
+- Performed quality assurance (QA) and quality control (QC) procedures on Elekta linear accelerators to maintain optimal clinical performance and ensure compliance with treatment standards.
+- Assisted in clinical dosimetry, including beam measurements, treatment calibration checks, and verification of patient dose accuracy.
+- Managed personnel dosimetry by preparing, distributing, and collecting dose badges, as well as analyzing and documenting dose reports.
+- Conducted routine radiation monitoring to ensure compliance with radiation safety regulations and maintain a safe clinical environment.
+
 ---
 
 ## Skills
