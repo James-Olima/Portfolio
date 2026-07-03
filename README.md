@@ -1,4 +1,4 @@
-# Hi there, I'm Olima James Omafu 👋
+# Olima James Omafu 
 
 ## Aspiring Data Scientist | Medical Physics Graduate
 
@@ -10,7 +10,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ---
 
-## 👨‍🎓 Education
+## Education
 
 **M.Sc. Medical Physics**
 
@@ -18,38 +18,18 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Physics Intern**
 - National Hospital Abuja
 
 ---
 
-## 🛠 Technical Skills
+## Skills
 
 ### Programming
-- Python
-
-### Data Analysis
-- Pandas
-- NumPy
-
-### Data Visualization
-- Matplotlib
-
-### Machine Learning
-- Scikit-learn
-
-### Statistical Analysis
-- Statsmodels
-
-### Tools
-- Jupyter Notebook
-- Git
-- GitHub
-
----
-
+- Basic Python
+  
 ## 📊 Areas of Interest
 
 - Data Science
@@ -61,7 +41,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 ### Breast Cancer Prediction
 A machine learning model developed to classify breast tumors as malignant or benign using clinical data.
@@ -69,12 +49,9 @@ A machine learning model developed to classify breast tumors as malignant or ben
 ### Exploratory Data Analysis
 Data cleaning, visualization, and statistical analysis using Python.
 
-### More Projects Coming Soon...
-I am actively building new projects in Data Science and Machine Learning to expand my portfolio.
-
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Advanced Python
 - Machine Learning
@@ -85,20 +62,8 @@ I am actively building new projects in Data Science and Machine Learning to expa
 
 ---
 
-## 🎯 Career Goal
-
-To build impactful data-driven solutions in healthcare and other industries while continuously improving my technical and analytical skills.
-
----
-
-## 📈 GitHub Contributions
-
-I regularly upload projects as I continue learning and improving my skills.
-
----
-
 ## 📫 Connect With Me
 
 Feel free to explore my repositories and connect with me.
 
-⭐ Thank you for visiting my GitHub profile!
+Thank you for visiting my GitHub profile!
