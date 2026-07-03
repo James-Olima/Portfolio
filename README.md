@@ -14,7 +14,7 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ### Master of Science (M.Sc.) in Medical Physics — **Distinction**
 **University of Lagos, Akoka, Lagos, Nigeria**  
-**2024 – 2025**
+*2024 – 2025*
 
 ### Bachelor of Science (B.Sc.) in Physics — **Second Class Upper Division (2:1)**
 **Federal University Kashere, Gombe State, Nigeria**  
