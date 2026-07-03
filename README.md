@@ -16,11 +16,9 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 **University of Lagos, Akoka, Lagos, Nigeria**  
 **2024 – 2025**
 
-**B.Sc. Physics**
-
 ### Bachelor of Science (B.Sc.) in Physics — **Second Class Upper Division (2:1)**
 **Federal University Kashere, Gombe State, Nigeria**  
-**2016 – 2021**
+*2016 – 2021*
 
 ---
 
@@ -41,36 +39,16 @@ This GitHub serves as a collection of my learning journey, projects, and continu
 
 ### Programming
 - Basic Python
-  
-## Areas of Interest
-
-- Data Science
-- Machine Learning
-- Healthcare Analytics
-- Predictive Modeling
-- Artificial Intelligence
-- Medical Data Analysis
 
 ---
 
-## Featured Projects
+## Projects
 
 ### Breast Cancer Prediction
 A machine learning model developed to classify breast tumors as malignant or benign using clinical data.
 
 ### Exploratory Data Analysis
 Data cleaning, visualization, and statistical analysis using Python.
-
----
-
-## Currently Learning
-
-- Advanced Python
-- Machine Learning
-- SQL
-- Feature Engineering
-- Model Evaluation
-- Data Storytelling
 
 ---
 
